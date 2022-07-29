@@ -728,8 +728,6 @@ a.menu-title:active:before
 .hList > * {
   float: right;
   width: 100%;
-  max-height: auto;
-  margin: auto;
 }
 
 .hList > * + * {
